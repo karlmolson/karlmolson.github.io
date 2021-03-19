@@ -38,8 +38,12 @@ navigation_header:
   url: /
 - title: About
   url: /about/
+  title: Publications
+  url: /pub/
 - title: Blog
   url: /blog/
+  title: /Resources/
+  url: /resource/
 
 # Footer nav
 navigation_footer:
